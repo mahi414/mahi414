@@ -1,81 +1,91 @@
-# Hi there, I'm Mahi Jha 👋
+# Mahi Jha
+### MCA Student @ NIT Warangal | Web Developer | DSA Enthusiast | Mathematics Graduate
 
-## 🚀 About Me
-
-🎓 MCA Student (2nd Year) at NIT Warangal  
-📚 Background in Mathematics  
-💻 Aspiring Web Developer  
-🌱 Currently learning Full Stack Web Development  
-🎭 Former Theatre Artist with experience in Public Speaking, Team Leadership, and Communication
-
-I enjoy building web applications, learning new technologies, and solving programming problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahijha/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/mahi414/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jhamahi414@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Profile Snapshot
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-
-### Backend & Database
-- Python
-- SQL
-- DBMS
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- REST APIs
+* 🎓 Pursuing **Master of Computer Applications (MCA)** at NIT Warangal.
+* 📚 Mathematics graduate with strong analytical and problem-solving skills.
+* 💻 Focused on **Web Development**, **Data Structures & Algorithms**, and Software Engineering fundamentals.
+* 🚀 Building practical projects while strengthening frontend development and API integration skills.
+* 🎭 Former theatre performer with experience in leadership, public speaking, and team management.
 
 ---
 
-## 📌 Projects
+## 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React.js |
+| **Programming Languages** | Python, JavaScript |
+| **Web Technologies** | REST APIs, Responsive Design, DOM Manipulation |
+| **Database** | SQL, DBMS Fundamentals |
+| **Version Control** | Git, GitHub |
+| **Computer Science** | Data Structures & Algorithms, Computer Networks, Database Management Systems |
+| **Currently Learning** | React Ecosystem, Node.js, Express.js, MongoDB |
+
+---
+
+## 🏗 Featured Projects
+
+### 💳 Razorpay Clone
+* Built a fully responsive clone of Razorpay's landing page using modern frontend development practices.
+* Implemented reusable UI sections and responsive layouts.
+* **Key Tech:** HTML, CSS, Tailwind CSS
+
+### 🌦 Weather App
+* Developed a weather application that fetches and displays real-time weather data.
+* Integrated third-party REST APIs and handled dynamic content updates.
+* **Key Tech:** HTML, CSS, JavaScript, REST APIs
 
 ### 💬 Discord Clone
-A responsive Discord landing page clone built using HTML, CSS, and Tailwind CSS.
+* Recreated Discord's landing page with a focus on responsive design and modern UI implementation.
+* Practiced Flexbox, Grid, and Tailwind CSS concepts.
+* **Key Tech:** HTML, CSS, Tailwind CSS
 
-### 🌦️ Weather App
-A weather application that fetches real-time weather data using APIs.
-
-**Tech Used**
-- HTML
-- CSS
-- JavaScript
-- REST APIs
+### 🔗 Share Modal App
+* Built an interactive share modal using JavaScript and DOM manipulation.
+* Implemented event handling and user interaction features.
+* **Key Tech:** HTML, CSS, JavaScript
 
 ---
 
-## 📈 Currently Learning
+## 📈 DSA Progress
 
-- Advanced JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms
+* Solving problems regularly to strengthen problem-solving and coding interview skills.
+* Practicing Arrays, Strings, Linked Lists, Stacks, Queues, Trees, BSTs, Heaps, Sliding Window, Greedy Algorithms, Recursion, and Backtracking.
+* Following Striver's DSA roadmap.
+* Solved 270+ problems till now.
 
 ---
 
-## 🏆 Strengths
+## 🏆 Beyond Coding
 
-- Communication Skills
-- Public Speaking
-- Team Leadership
-- Fast Learner
-- Problem Solving
-- Time Management
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: Add Your LinkedIn URL
-- GitHub: Add Your GitHub URL
+* Team Leadership
+* Public Speaking
+* Communication Skills
+* Theatre & Stage Performance
+* Event Management
+* Time Management
+* Fast Learning & Adaptability
 
 ---
 
-⭐ Open to internships, collaborations, and exciting development opportunities.
+## 🎯 Current Goals
+
+* Secure a Software Development Internship
+* Become proficient in Full Stack Development
+* Solve 500+ DSA problems
+* Build production-ready web applications
+* Contribute to Open Source Projects
+
+---
+
+<p align="center">
+  <b>From Theatre to Technology — combining analytical thinking, communication, and code to create impactful solutions.</b>
+</p>
