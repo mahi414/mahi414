@@ -22,7 +22,8 @@
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React.js |
-| **Programming Languages** | Python, JavaScript |
+| **Programming Languages** | CPP, Java, JavaScript |
+| **Programming Concepts** | Object-Oriented Programming (OOP), Data Structures & Algorithms |
 | **Web Technologies** | REST APIs, Responsive Design, DOM Manipulation |
 | **Database** | SQL, DBMS Fundamentals |
 | **Version Control** | Git, GitHub |
@@ -60,7 +61,7 @@
 * Solving problems regularly to strengthen problem-solving and coding interview skills.
 * Practicing Arrays, Strings, Linked Lists, Stacks, Queues, Trees, BSTs, Heaps, Sliding Window, Greedy Algorithms, Recursion, and Backtracking.
 * Following Striver's DSA roadmap.
-* Solved 270+ problems till now.
+* Solved 270+ DSA problems across various topics.
 
 ---
 
